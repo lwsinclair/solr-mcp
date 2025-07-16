@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/allenday-solr-mcp-badge.png)](https://mseep.ai/app/allenday-solr-mcp)
+
 # Solr MCP
 
 A Python package for accessing Apache Solr indexes via Model Context Protocol (MCP). This integration allows AI assistants like Claude to perform powerful search queries against your Solr indexes, combining both keyword and vector search capabilities.
